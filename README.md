@@ -1,5 +1,5 @@
 ### Hello, welcome to my GitHub account.
-Don't expect here to be crazy stuff, just a few projects I developed, have contributed to, forked cause they are impressive or useful for me. You can check my profile description for more - or head over to my (website)[http://sero583.tk].
+Don't expect here to be crazy stuff, just a few projects I developed, have contributed to, forked cause they are impressive or useful for me. You can check my profile description for more - or head over to my [website](http://sero583.tk).
 
 If you want to see projects I've done before, hit me up privately for some insights.
 
@@ -27,7 +27,7 @@ When contacting me, I would be thankful if you would **provide already the detai
 
 You can contact me by using the following social media channels:
 
-**Discord** (DMs are open): sero583#6992 or use 
+**Discord** (DMs are open): **sero583#6992**
 
 
 Not used frequently, use upper listed channels for a faster response:
