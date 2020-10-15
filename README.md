@@ -4,7 +4,7 @@ Don't expect crazy stuff (e.g. big projects) to be here. Here are just a few pro
 If you want to see projects I've done before, contact me privately for some insights.
 
 ## You want to commission me for your project?
-If you want to commission me for a project you wish, please contact me using a channel you like from those I provide below.
+If you want to commission me for a project you wish, please contact me using a channel you like from those I provide below. Please note, that I'm currently developing only Java (including Android development) and PHP Software.
 
 ### Why me?
 I mainly develop for **PMMP** (earlier: **PocketMine-MP**; a PHP server software for Minecraft:BE) and **Cloudburst** (earlier: **Nukkit**; a java server-software Minecraft:BE). I'm also able to develop Android and Windows Apps. Maintaining bigger scaled projects isn't an issue for me. I'm experinced in developing efficent and sophisticated software.
