@@ -18,7 +18,7 @@ It's not in my interest to hand you out software, which was made in a hurry and 
 Just contact me and tell me of what you have thought, so further discussions and negotiations can start. After a successful agreement, the development for your project starts. You will receive frequently progress updates on the prefered communication channel after development started.
 Your security as a customer is, you won't **pre-pay** without seeing your product before. When wished, you can test it with me or if you have no time for that - I can send you videos of your project. After all is as we agreed on, you will receive your project after a successful payment. This procedure is simply the best one for both sides.
 
-#### You get warranty on your product!
+#### You get warranty on your product
 Additionally I provide you a warranty: Issues created due to my influence will be fixed without any extra charge. If wished, I can also provide further technical support.
 
 
