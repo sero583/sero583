@@ -150,7 +150,7 @@ Collaborated with a three-person team to create an interactive coding education 
 
 ---
 
-### 🗓️ [University Appointment Scheduling System](https://github.com/sero583/PraktikumSWE-CodeAcademy)
+### 🗓️ [University Appointment Scheduling System](https://github.com/sero583/WebDevII)
 University-wide appointment scheduling platform for students and lecturers.
 
 **Highlights:**
